@@ -26,14 +26,22 @@ table, tr,th,td {
     margin: 0 7px 7px 0;
     width: 10%;
     float: left;
-    height:150px;
+    height:350px;
 }
 
 #caja3{
     margin: 0 7px 7px 7px;
     width: 50%;
     float: left;
-    height: 250px;
+    height: 350px;
+}
+#caja5 {
+    border: 2px coral dotted;
+    margin: 0;
+    border-color: darkolivegreen;
+    float: left;
+    width: 86%;
+    height: 10px;
 }
 h1,h4,h5{
     text-align: center;

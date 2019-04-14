@@ -48,14 +48,6 @@ div{
     float: left;
     height: 500px;
 }
-#caja5{
-    border: 2px coral dotted;
-    margin: 0 ;
-    border-color: darkolivegreen;
-    float: left;
-    width: 86%;
-    height: 10px; 
-}
 p{
     color: ghostwhite;
 }
