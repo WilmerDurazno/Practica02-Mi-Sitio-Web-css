@@ -35,14 +35,6 @@ table, tr,th,td {
     float: left;
     height: 350px;
 }
-#caja5 {
-    border: 2px coral dotted;
-    margin: 0;
-    border-color: darkolivegreen;
-    float: left;
-    width: 86%;
-    height: 10px;
-}
 h1,h4,h5{
     text-align: center;
     color: red;
