@@ -24,6 +24,17 @@ div{
     float: left;
     height: 500px;
 }
+#menu {
+    margin: 0 7px 7px 7px;
+    background-color:paleturquoise;
+    width: 5%;
+    float: left;
+    height: 500px;
+    border-radius: 98px 98px 98px 98px;
+    -moz-border-radius: 98px 98px 98px 98px;
+    -webkit-border-radius: 98px 98px 98px 98px;
+    border: 9px double #001eff;
+}
 #caja3{
     margin: 0 7px 7px 0;
     border-color: darkgray;
